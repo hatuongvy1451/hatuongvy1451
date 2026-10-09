@@ -137,27 +137,25 @@ A backend system for labor safety management and workplace accident reporting, d
 
 **Role:** Core Contributor | **2025** | **Grade: 4.0/4.0**
 
-A full-stack medical appointment booking application with a focus on backend development, authentication, appointment scheduling, and data management.
+A medical appointment booking application developed with a focus on backend development, API design, and database management.
 
-**Backend Contributions:**
-- Contributed to backend features using Java and Spring Boot with the Controller-Service-Repository architecture.
-- Developed RESTful APIs supporting authentication and appointment scheduling.
-- Worked with MySQL and Spring Data JPA / Hibernate for database operations and data verification.
-- Collaborated with teammates to design and implement unit tests and integration tests for selected controllers.
-- Used automated tests to validate selected API behaviors and endpoint responses.
+**Backend Development:**
+- Built backend features using Java and Spring Boot with a three-layer architecture (Controller–Service–Repository).
+- Developed RESTful APIs for authentication and appointment booking, including Google OAuth2 integration.
+- Designed and managed the MySQL database using Spring Data JPA / Hibernate and applied the DTO pattern.
+- Implemented asynchronous email notifications using Apache Kafka.
+- Integrated VNPAY Sandbox and VietMap API.
+- Generated PDF reports using JasperReports.
+- Implemented pagination and filtering for efficient data retrieval.
 
-**Technologies:**
-- Java, Spring Boot
-- Spring Security, Spring Data JPA, Hibernate
-- MySQL
-- Google OAuth2
-- Apache Kafka
-- VNPAY Sandbox, VietMap API
-- JasperReports
+**Testing & Quality Assurance:**
+- Designed and implemented unit tests and integration tests for selected controllers in collaboration with team members.
+- Validated API behavior and endpoint responses to verify expected functionality.
+- Used test results to identify potential issues and improve the reliability of tested backend features.
 
-**Key Focus:** Backend logic, API behavior, database operations, and introductory automated testing.
+**Technologies:** Java, Spring Boot, Spring Security, Spring Data JPA, Hibernate, MySQL, Google OAuth2, Apache Kafka, VNPAY Sandbox, VietMap API, JasperReports.
 
-🔗 [View Project Repository](https://github.com/huyentran1611/j2ee_dat_lich_kham_benh)
+🔗 [View Project Repository](https://github.com/huyentran1611/j2ee_dat_lich_kham_benh/tree/main/j2ee-backend/src/test/java/com/example/j2ee_backend)
 
 ---
 
@@ -178,13 +176,13 @@ A full-stack medical appointment booking application with a focus on backend dev
 
 **Saigon University**
 
-- Major: Information Technology – Software Engineering
+- Major: Information Technology - Software Engineering
 - GPA: 3.35/4.0
 - Graduation Year: 2026
 
 **Certifications**
-- TOEIC: 625/990 — February 2026
-- Aptis ESOL General: B2 — March 2026
+- TOEIC: 625/990 - February 2026
+- Aptis ESOL General: B2 - March 2026
 
 ---
 
